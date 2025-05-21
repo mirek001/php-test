@@ -1,6 +1,6 @@
 # php-test
 
-This is a simple PHP application that prints "Hello World!".
+This is a simple PHP application that outputs an HTML page with "Hello World!".
 
 Run it with: `php index.php`
 
